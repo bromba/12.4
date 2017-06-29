@@ -1,0 +1,16 @@
+
+* {
+  box-sizing: border-box; 
+}
+
+body {
+  margin: 0 auto;
+  font-family: 'Open Sans', sans-serif; 
+}
+
+button, p {
+	padding: 10px;
+	margin: 10px 20px;
+	font-size: 20px;
+	
+}
